@@ -36,7 +36,7 @@ img {
 
 /* タイトル(共通) */
 .title_1 {
-  background-image: url(img/img_2.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/main/img_2.jpg?raw=true);
   height: 300px;
   background-attachment: fixed;
   background-size: cover;
@@ -57,7 +57,7 @@ img {
 }
 
 .title_2 {
-  background-image: url(img/img_3.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/main/img_3.jpg?raw=true);
   height: 300px;
   background-attachment: fixed;
   background-size: cover;
@@ -78,7 +78,7 @@ img {
 }
 
 .title_3 {
-  background-image: url(img/img_4.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/main/img_4.jpg?raw=true);
   height: 300px;
   background-attachment: fixed;
   background-size: cover;
@@ -120,7 +120,7 @@ h3:last-child{
 
 /* ヘッダー */
 header {
-  background-image: url(img/img_1.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/main/img_1.jpg?raw=true);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -292,7 +292,6 @@ footer{
 
   /* タイトル */
   .title_1 {
-    background-image: url(img/img_2.jpg);
     height: 100px;
     background-attachment: scroll;
   }
@@ -310,7 +309,6 @@ footer{
   }
   
   .title_2 {
-    background-image: url(img/img_3.jpg);
     height: 100px;
     background-attachment: scroll;
   }
@@ -328,7 +326,6 @@ footer{
   }
   
   .title_3 {
-    background-image: url(img/img_4.jpg);
     height: 100px;
     background-attachment: scroll;
   }
