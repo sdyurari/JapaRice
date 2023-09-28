@@ -36,7 +36,7 @@ img {
 
 /* タイトル(共通) */
 .title_1 {
-  background-image: url(img/img_2.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/8686272773ad997ce79d537526afc8d41b7a16a0/img_2.jpg?raw=true);
   height: 300px;
   background-attachment: fixed;
   background-size: cover;
@@ -57,7 +57,7 @@ img {
 }
 
 .title_2 {
-  background-image: url(img/img_3.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/8686272773ad997ce79d537526afc8d41b7a16a0/img_3.jpg?raw=true);
   height: 300px;
   background-attachment: fixed;
   background-size: cover;
@@ -78,7 +78,7 @@ img {
 }
 
 .title_3 {
-  background-image: url(img/img_4.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/8686272773ad997ce79d537526afc8d41b7a16a0/img_4.jpg?raw=true);
   height: 300px;
   background-attachment: fixed;
   background-size: cover;
@@ -120,7 +120,7 @@ h3:last-child{
 
 /* ヘッダー */
 header {
-  background-image: url(img/img_1.jpg);
+  background-image: url(https://github.com/sdyurari/JapaRice/blob/8686272773ad997ce79d537526afc8d41b7a16a0/img_2.jpg?raw=true);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
